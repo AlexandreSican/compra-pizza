@@ -19,5 +19,9 @@ setTimeout: temporizador
 
 Fetch
 
-Acesse em: https://alexandresican.github.io/compra-pizza/
+Acesse em: <a href="https://alexandresican.github.io/compra-pizza/" target="blank">Aqui</a>
+
+# Página
+
+<img src="https://github.com/AlexandreSican/images/blob/main/pizza.jpg?raw=true"/>
 
